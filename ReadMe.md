@@ -11,4 +11,4 @@ The Books won't have titles. They will simply be numbered.
 
 Enjoy 😎
 
-[Book 1](Books/The Tale Of Ardron - Book 1.pdf)
+[Book 1](Books/Book1.pdf)
