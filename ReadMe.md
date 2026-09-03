@@ -29,13 +29,13 @@ Book 2: The Beginning - **Currently WIP**
 
 Book 3: Before The War
     
-&emsp;&emsp;Book 3a: The Echos of Aria
+&emsp;&emsp;Book 3a: The Echos of Aria(No Steam Page Yet)
 
 Book 4: The Seeds
     
 &emsp;&emsp;[Book 4a: Graces Lament](https://store.steampowered.com/app/3737790/Ardron_Universe_Graces_Lament/)
     
-&emsp;&emsp;Book 4b: Rimalts Recollection
+&emsp;&emsp;Book 4b: Rimalts Recollection(No Steam Page Yet)
 
 Book 5: Birth of a Horseman
 
@@ -81,17 +81,17 @@ Book 25: The Eldrian Plague
 
 &emsp;&emsp;[Book 25a: The Glitches](https://store.steampowered.com/app/4169790/Ardron_UniverseDaemon_Protocol/)
 
-Book 26: The Anomolies(Chapter 1 of Ashbound)
+Book 26: The Anomolies(Chapter 1 of Ashbound)(No Steam Page Yet)
 
-Book 27: A Strange Partnership(Chapter 2 of Ashbound)
+Book 27: A Strange Partnership(Chapter 2 of Ashbound)(No Steam Page Yet)
 
-Book 28: The One That Defied Orders(Chapter 3 of Ashbound)
+Book 28: The One That Defied Orders(Chapter 3 of Ashbound)(No Steam Page Yet)
 
-Book 29: The Wizards Trap(Chapter 4 of Ashbound)
+Book 29: The Wizards Trap(Chapter 4 of Ashbound)(No Steam Page Yet)
 
-Book 30: A Welcome Reunion(Chapter 5 of Ashbound)
+Book 30: A Welcome Reunion(Chapter 5 of Ashbound)(No Steam Page Yet)
 
-Book 31: Too Far Gone(The Final Chapter of Ashbound)
+Book 31: Too Far Gone(The Final Chapter of Ashbound)(No Steam Page Yet)
 
 Book 32: The End Of THe War
 
