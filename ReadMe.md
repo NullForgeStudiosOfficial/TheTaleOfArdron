@@ -45,7 +45,7 @@ Book 4b: Rimalts Recollection
 
 Book 5: Birth of a Horseman
 
-Book 6: (Unknown)
+> Book 6: (Unknown)
 
 Book 7: Factory Failure
 
