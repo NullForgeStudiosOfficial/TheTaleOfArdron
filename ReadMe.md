@@ -25,9 +25,11 @@ Enjoy 😎
 
 [Book 1: The Nothing](Books/Book1.pdf)
 
-Book 2: The Beginning - WIP
+Book 2: The Beginning - **Currently WIP**
 
-Book 3: Before The war
+---
+
+Book 3: Before The War
     
 Book 3a: The Echos of Aria
 
