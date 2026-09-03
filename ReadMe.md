@@ -23,7 +23,6 @@ Enjoy 😎
 
 ---
 
-
 [Book 1: The Nothing](Books/Book1.pdf)
 
 Book 2: The Beginning - WIP
@@ -32,6 +31,7 @@ Book 3: Before The war
     
 Book 3a: The Echos of Aria
 
+---
 
 Book 4: The Seeds
     
@@ -39,7 +39,7 @@ Book 4: The Seeds
     
 Book 4b: Rimalts Recollection
 
-
+---
 
 Book 5: Birth of a Horseman
 
@@ -81,13 +81,13 @@ Book 23: Stretching Our Legs
 
 Book 24: (Unknown)
 
-
+---
 
 Book 25: The Eldrian Plague
 
 [Book 25a: The Glitches](https://store.steampowered.com/app/4169790/Ardron_UniverseDaemon_Protocol/)
 
-
+---
 
 Book 26: The Anomolies(Chapter 1 of Ashbound)
 
@@ -101,11 +101,9 @@ Book 30: A Welcome Reunion(Chapter 5 of Ashbound)
 
 Book 31: Too Far Gone(The Final Chapter of Ashbound)
 
-
+---
 
 Book 32: The End Of THe War
-
----
 
 Book 33: And Then There Was One
 
