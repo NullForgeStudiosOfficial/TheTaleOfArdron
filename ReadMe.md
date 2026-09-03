@@ -27,8 +27,6 @@ Enjoy 😎
 
 Book 2: The Beginning - **Currently WIP**
 
----
-
 Book 3: Before The War
     
 &emsp;&emsp;Book 3a: The Echos of Aria
